@@ -1,5 +1,5 @@
 # 💫 About Me:
-UG Electronics | Python Enthusiast | Aspiring Data Scientist | Turning Complex Data Into Actionable Insights That Drive Business Growth
+Aspiring Data Scientist | Skilled in Python, SQL, Machine Learning, Deep Learning & NLP | Exploring Agentic AI | Transforming Data Into Intelligent Solutions
 
 
 ## 🌐 Socials:
